@@ -1,5 +1,4 @@
 ﻿Aura Bot
-====
 ------------------------
 
 This is a fork of Josko's with the following changes:
